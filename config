@@ -1,0 +1,32 @@
+[param]
+
+# CPU mode or GPU mode
+use_gpu = 0
+
+# GPU device number (doesn't matter for CPU mode)
+GPUdeviceNumber = 0
+
+# Select model (default: 1)
+modelID = 1
+
+# Look in matlab counterpart for explanation
+octave = 3
+starting_range = 0.8
+ending_range = 2
+scale_search = 0.5, 1, 1.5, 2
+thre1 = 0.1
+thre2 = 0.05 
+thre3 = 0.5 
+min_num = 4
+mid_num = 10
+crop_ratio = 2.5
+bbox_ratio = 0.25
+
+[models]
+## don't edit this part
+
+[[1]]
+boxsize = 368
+padValue = 128
+np = 12
+stride = 8
