@@ -1,7 +1,7 @@
 # Tai-Chi-Posture-Recognition-System
 基于OpenPose的太极拳姿态识别系统
 
- <img src="https://i.loli.net/2021/05/22/VAxNvUabRBdh8kG.jpg" width = "600" alt="预览" align=center />
+![image](https://user-images.githubusercontent.com/36286293/121049489-4e9b3000-c7ea-11eb-9b64-d043db7e7995.png)
 
 
 
